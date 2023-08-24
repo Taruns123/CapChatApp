@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "549411576043",
+    "project_id": "capchatapp-d6e3b",
+    "storage_bucket": "capchatapp-d6e3b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:549411576043:android:76b3077a0cc24a1e1b06ae",
+        "android_client_info": {
+          "package_name": "com.example.capchatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "549411576043-qmvkfbu0trbs1tn5i38l6tbi652490ne.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgljdndN4OuIoH_ni5ZUVHZ3EUK6Itk_I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "549411576043-qmvkfbu0trbs1tn5i38l6tbi652490ne.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
